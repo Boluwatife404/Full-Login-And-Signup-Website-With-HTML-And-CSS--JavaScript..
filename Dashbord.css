@@ -1,0 +1,11 @@
+input:focus {
+    background-color: transparent !important;
+}
+
+input {
+    background-color: transparent !important;
+}
+
+input::placeholder {
+    color: yellow !important;
+}
